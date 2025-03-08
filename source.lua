@@ -229,7 +229,7 @@ loader:StartLoading(messages, 2)
 
 wait(8)
 loader:Destroy()
-wait(20)
+wait(9)
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 -- Tạo cửa sổ chính
